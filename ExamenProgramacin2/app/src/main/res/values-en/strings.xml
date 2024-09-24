@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exam Program 2</string>
+    <string name="valor_error">You must enter a valid numerical value</string>
+    <string name="titulo_registro">Meter Registration</string>
+    <string name="valor_lectura">Reading Value</string>
+    <string name="formato_fecha">Date (YYYY-MM-DD)</string>
+    <string name="tipo_medidor">Type of meter:</string>
+    <string name="agua">Water</string>
+    <string name="luz">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="guardar_lectura">Save Reading</string>
+    <string name="cancelar">Cancel</string>
+    <string name="tipo">Type</string>
+    <string name="medicion">Measurement</string>
+    <string name="fecha">Date</string>
+</resources>

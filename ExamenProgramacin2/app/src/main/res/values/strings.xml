@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Examen Programación 2</string>
+    <string name="valor_error">Debe ingresar un valor numérico válido </string>
+    <string name="titulo_registro">Registro Medidor</string>
+    <string name="valor_lectura">Valor de la lectura</string>
+    <string name="formato_fecha">Fecha (YYYY-MM-DD)</string>
+    <string name="tipo_medidor">Tipo de medidor:</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="guardar_lectura">Guardar Lectura</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="tipo">Tipo</string>
+    <string name="medicion">Medición</string>
+    <string name="fecha">Fecha</string>
+</resources>
